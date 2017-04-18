@@ -1,8 +1,7 @@
-**Avance 1
-**
+**Avance 1**
 
 
-**a) ****Análisis a realizar:** Heterocigosidad observada, Heterocigosidad esperada, desviación de equilibrio Hardy-Weinberg, riqueza y diversidad alélica, estructura genética, Fst y tamaño efectivo de la población.
+**a) Análisis a realizar:** Heterocigosidad observada, Heterocigosidad esperada, desviación de equilibrio Hardy-Weinberg, riqueza y diversidad alélica, estructura genética, Fst y tamaño efectivo de la población.
 
 **b) Tipo de datos:** Datos genéticos de microsatélites obtenidos de:
 
