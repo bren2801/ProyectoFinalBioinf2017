@@ -8,6 +8,7 @@ Zachos FE, Frantz AC, Kuehn R, Bertouille S, Colyn M, Niedzialkowska M, Pérez-G
 
 Zachos FE, Frantz AC, Kuehn R, Bertouille S, Colyn M, Niedzialkowska M, Pérez-González J, Skog A, Šprem N, Flamand M (2016) Data from: Genetic structure and effective population sizes in European red deer (*Cervus elaphus*) at a continental scale: insights from microsatellite DNA. Dryad Digital Repository. http://dx.doi.org/10.5061/dryad.1v6p1.
 
+
 **El proyecto esta organizado en las carpetas:**
 
 **DATA**
@@ -22,6 +23,7 @@ Este directorio esta formado por dos carpetas:
 **Data_out:**
 Esta carpeta contiene los resultados obtenidos de los análisis realizados en forma de tablas de resumen.
 
+
 **BIN**
 
 Este directorio contiene los scripts utilizados para describir la diversidad y estructura genética de 33 poblaciones de ciervo rojo a partir de datos microsatelitales. Se recomienda que los scripts, que se describen a continuación, se corran en el siguiente orden:
@@ -34,6 +36,7 @@ Este script hace un análisis genético exploratorio. Calcula frecuencia alélic
 
 **3.Diferenciación_genetica.R**
 Este script calcula la diferenciación genética de datos microsatelitales de 33 poblaciones de ciervo rojo europeo. Nos da estadísticos de resumen de diferenciación global y por locus, realiza un análisis de varianza molecular (AMOVA) y un análisis discriminante de componentes principales (DAPC) y distancias de Nei. Para correr este script se utilizan los archivos reddeer.gen y deer_strata.csv  ubicados en la carpeta Data_in.
+
 
 **FIGURES**
 
