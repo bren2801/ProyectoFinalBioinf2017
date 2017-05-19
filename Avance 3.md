@@ -14,4 +14,4 @@ Este script hace un análisis genético exploratorio. Calcula frecuencia alélic
 **3.Diferenciación_genetica.R**.
 Este script calcula la diferenciación genética de datos microsatelitales de 33 poblaciones de ciervo rojo europeo. Nos da estadísticos de resumen de diferenciación global y por locus, realiza un análisis de varianza molecular (AMOVA) y un análisis discriminante de componentes principales (DAPC) y distancias de Nei. 
 
-El Readme esta casi listo.
+El Readme [https://github.com/bren2801/ProyectoFinalBioinf2017/blob/master/README_proyecto.md] esta casi listo.
